@@ -15,8 +15,6 @@ color:rgb(150, 46, 199);
 font-weight: 700;
 text-shadow: 1px 2px 2px rgb(92, 89, 94);
 background-color:rgb(244, 242, 242);
-
-
 }
 
 .background {
@@ -27,11 +25,14 @@ color: white;
 
 .navbar {
 background-color: rgb(232, 159, 214);
-
 }
 
 .carousel-item {
     height: 500px;
+}
+
+h1 {
+    color: rgb(150, 46, 199);
 }
 
 h5 {
@@ -53,4 +54,13 @@ border-radius: 20%;
 .footer {
     background-color: rgb(150, 46, 199);
     color: rgb(232, 159, 214);
+}
+
+.card-img-top {
+    height: 295px;
+    width: 295px;
+}
+
+.card-title {
+    color: rgb(150, 46, 199);
 }
