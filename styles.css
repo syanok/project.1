@@ -58,6 +58,7 @@ font-size: 20px
 height: 300px;
 width: 300px;
 border-radius: 20%;
+cursor: pointer;
 
 }
 .footer {
@@ -107,7 +108,8 @@ background: linear-gradient(to right, rgba(150, 46, 199), rgba(232, 159, 214))
 
 .order-form { 
 background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(232, 159, 214));
-background: linear-gradient(to right, rgba(150, 46, 199), rgba(232, 159, 214))
+background: linear-gradient(to right, rgba(150, 46, 199), rgba(232, 159, 214));
+color: rgb(150, 46, 199)
 }
 
 .home-page {
@@ -120,5 +122,5 @@ background: linear-gradient(to right, rgba(150, 46, 199), rgba(232, 159, 214))
     font-size: larger;
     margin-left: 50px;
     margin-right: 50px;
-}
 
+}
